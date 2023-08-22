@@ -20,7 +20,7 @@ Join me on this journey as we turn lines of code into meaningful solutions that 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/opini-isaac-2320b71b7)
 [![Medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@isaacopini8)
 
-## 💻 skills:
+## 💻 Skills:
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
@@ -29,6 +29,11 @@ Join me on this journey as we turn lines of code into meaningful solutions that 
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![Figma](https://img.icons8.com/color/48/000000/figma.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+
 
 
 
