@@ -1,13 +1,24 @@
 # 💫 About Me:
-- 👋 Hi, I’m @OpiniIsaac
-- 👀 I’m interested in React
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on real-life projects that solve problems through code
-- 📫 How to reach me: isaacpini8@gmail.com
+
+Hello there! 👋 I'm Isaac, but you can call me @OpiniIsaac. I'm not just a developer; I'm a curious mind on a journey through the digital universe. Here's a glimpse into my coding galaxy:
+
+🚀 Passion: React is my playground. The thrill of crafting interactive user interfaces that come to life is my daily adrenaline.
+
+🌱 Learning: Right now, I'm immersed in the world of React, cultivating my skills to build the next big thing.
+
+🛠️ Collaboration: I'm not just after lines of code; I'm on the hunt for real-world problems to solve collaboratively. If you're on a mission to make a dent in the universe, let's connect!
+
+📬 Reach Out: Whether you want to discuss code, exchange ideas, or just have a virtual coffee chat, my inbox is always open: isaacpini8@gmail.com
+
+💡 Fun Fact: When I'm not diving into code, you can find me exploring the latest tech trends, enjoying a cup of coffee, or planning my next coding adventure.
+
+Join me on this journey as we turn lines of code into meaningful solutions that shape the future. Let's code the world better, one project at a time!
+
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/opiniisaac256) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/opini-isaac-2320b71b7) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@isaacopini8)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/opiniisaac256) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/opini-isaac-2320b71b7)
+[![Medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@isaacopini8)
 
 ## 💻 skills:
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
