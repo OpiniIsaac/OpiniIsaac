@@ -1,12 +1,13 @@
 # 💫 About Me:
 
-Hello there! 👋 I'm Isaac, but you can call me @OpiniIsaac. I'm not just a developer; I'm a curious mind on a journey through the digital universe. Here's a glimpse into my coding galaxy:
+ 👋 I'm Isaac, but you can call me @OpiniIsaac. 
+
 
 🚀 Passion: React is my playground. The thrill of crafting interactive user interfaces that come to life is my daily adrenaline.
 
 🌱 Learning: Right now, I'm immersed in the world of React, cultivating my skills to build the next big thing.
 
-🛠️ Collaboration: I'm not just after lines of code; I'm on the hunt for real-world problems to solve collaboratively. If you're on a mission to make a dent in the universe, let's connect!
+🛠️ Collaboration: I'm not just after lines of code; I'm on the hunt for real-world problems to solve collaboratively. 
 
 📬 Reach Out: Whether you want to discuss code, exchange ideas, or just have a virtual coffee chat, my inbox is always open: isaacpini8@gmail.com
 
